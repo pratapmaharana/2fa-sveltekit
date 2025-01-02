@@ -12,7 +12,11 @@
 	/>
 </svelte:head>
 
-<section>
+<!-- <section>
 	<TwoFactorAuth />
-	<!-- <Counter /> -->
-</section>
+	<Counter />
+</section> -->
+
+<div>
+	Main
+</div>
